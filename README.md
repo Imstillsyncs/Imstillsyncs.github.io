@@ -3,7 +3,9 @@ This website has every project, games, and tutorials Syncs/TJ has made. TJ's soc
 
 # Info
 Made by Imstillsyncs 2022
+
 Tutorial's will be inside the website next month October 1st, 2022.
+
 Request for me to make you websites will be inside the website next week(09/19/2022
 
 # Website
