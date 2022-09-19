@@ -78,3 +78,10 @@ a {
 .container:hover .overlay {
   opacity: 1;
 }
+.badge {
+  background-color: red;
+  color: white;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 5px;
+}
