@@ -40,3 +40,42 @@ body {
     background-color:black;
     color:white;
 }
+html,
+body {
+    margin: 0;
+    font-family: system-ui, sans-serif;
+}
+
+main {
+  margin: 24px auto;
+  padding: 8px;
+  max-width: 400px;
+  text-align: center;
+}
+
+#header {
+  margin: 0 0 32px 0;
+}
+
+#profile {
+  border-radius: 100%;
+  object-fit: cover;
+}
+
+#name {
+  margin: 0;
+}
+
+#description {
+  margin: 0;
+  color: gray; 
+}
+
+.link {
+  display: block;
+  background-color: white;
+  color: black;
+  text-decoration: none;
+  padding: 18px;
+  margin: 12px 0;
+}
